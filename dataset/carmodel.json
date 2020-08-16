@@ -1,0 +1,1087 @@
+[{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaaa"
+  },
+  "model_name": 100,
+  "model_make_id": "austin-healey"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaab"
+  },
+  "model_name": 10,
+  "model_make_id": "sunbeam"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaac"
+  },
+  "model_name": 1000,
+  "model_make_id": "datsun"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaad"
+  },
+  "model_name": 11,
+  "model_make_id": "citroen"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaae"
+  },
+  "model_name": 12,
+  "model_make_id": "packard"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaaf"
+  },
+  "model_name": 125,
+  "model_make_id": "ferrari"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab0"
+  },
+  "model_name": "125S",
+  "model_make_id": "ferrari"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab1"
+  },
+  "model_name": 1300,
+  "model_make_id": "lada"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab2"
+  },
+  "model_name": 15,
+  "model_make_id": "aston-martin"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab3"
+  },
+  "model_name": "159S",
+  "model_make_id": "ferrari"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab4"
+  },
+  "model_name": 16,
+  "model_make_id": "armstrong-siddeley"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab5"
+  },
+  "model_name": 1700,
+  "model_make_id": "caterham"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab6"
+  },
+  "model_name": 1800,
+  "model_make_id": "triumph"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab7"
+  },
+  "model_name": "2-Litre",
+  "model_make_id": "ac"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab8"
+  },
+  "model_name": 2002,
+  "model_make_id": "alpina"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececab9"
+  },
+  "model_name": 205,
+  "model_make_id": "abarth"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaba"
+  },
+  "model_name": 202,
+  "model_make_id": "peugeot"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececabb"
+  },
+  "model_name": 1200,
+  "model_make_id": "lada"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececabc"
+  },
+  "model_name": 230,
+  "model_make_id": "mercedes-benz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececabd"
+  },
+  "model_name": 320,
+  "model_make_id": "mercedes-benz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececabe"
+  },
+  "model_name": 33,
+  "model_make_id": "pininfarina"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececabf"
+  },
+  "model_name": 340,
+  "model_make_id": "bmw"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac0"
+  },
+  "model_name": "350 GT",
+  "model_make_id": "lamborghini"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac1"
+  },
+  "model_name": 356,
+  "model_make_id": "porsche"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac2"
+  },
+  "model_name": 375,
+  "model_make_id": "monteverdi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac3"
+  },
+  "model_name": 4,
+  "model_make_id": "maserati"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac4"
+  },
+  "model_name": 40,
+  "model_make_id": "buick"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac5"
+  },
+  "model_name": 450,
+  "model_make_id": "bristol"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac6"
+  },
+  "model_name": 312,
+  "model_make_id": "wartburg"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac7"
+  },
+  "model_name": 311,
+  "model_make_id": "wartburg"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac8"
+  },
+  "model_name": 6,
+  "model_make_id": "xedos"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececac9"
+  },
+  "model_name": 60,
+  "model_make_id": "cadillac"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaca"
+  },
+  "model_name": 600,
+  "model_make_id": "daf"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececacb"
+  },
+  "model_name": 61,
+  "model_make_id": "cadillac"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececacc"
+  },
+  "model_name": 62,
+  "model_make_id": "cadillac"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececacd"
+  },
+  "model_name": 66,
+  "model_make_id": "oldsmobile"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececace"
+  },
+  "model_name": "6C",
+  "model_make_id": "alfa-romeo"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececacf"
+  },
+  "model_name": 750,
+  "model_make_id": "zastava"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad0"
+  },
+  "model_name": 770,
+  "model_make_id": "mercedes-benz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad1"
+  },
+  "model_name": "7A",
+  "model_make_id": "citroen"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad2"
+  },
+  "model_name": 8,
+  "model_make_id": "austin"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad3"
+  },
+  "model_name": 92,
+  "model_make_id": "saab"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad4"
+  },
+  "model_name": 220,
+  "model_make_id": "steyr"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad5"
+  },
+  "model_name": "A 106",
+  "model_make_id": "alpine"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad6"
+  },
+  "model_name": "A10",
+  "model_make_id": "mitsubishi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad7"
+  },
+  "model_name": "A3",
+  "model_make_id": "auverland"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad8"
+  },
+  "model_name": "A3C",
+  "model_make_id": "bizzarrini"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececad9"
+  },
+  "model_name": "A4",
+  "model_make_id": "auverland"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececada"
+  },
+  "model_name": "AA",
+  "model_make_id": "toyota"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececadb"
+  },
+  "model_name": "AIV",
+  "model_make_id": "panoz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececadc"
+  },
+  "model_name": "AMX",
+  "model_make_id": "amc"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececadd"
+  },
+  "model_name": 950,
+  "model_make_id": "innocenti"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececade"
+  },
+  "model_name": "Aero",
+  "model_make_id": "ssc"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececadf"
+  },
+  "model_name": "Aprilia",
+  "model_make_id": "lancia"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae0"
+  },
+  "model_name": "Armada",
+  "model_make_id": "mahindra"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae1"
+  },
+  "model_name": "Atom",
+  "model_make_id": "ariel"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae2"
+  },
+  "model_name": "Avanti",
+  "model_make_id": "avanti"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae3"
+  },
+  "model_name": 5,
+  "model_make_id": "simca"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae4"
+  },
+  "model_name": 500,
+  "model_make_id": "fiat"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae5"
+  },
+  "model_name": "BJ 212",
+  "model_make_id": "beijing"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae6"
+  },
+  "model_name": "Bianchina",
+  "model_make_id": "autobianchi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae7"
+  },
+  "model_name": "Brisa",
+  "model_make_id": "kia"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae8"
+  },
+  "model_name": "C8",
+  "model_make_id": "spyker"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececae9"
+  },
+  "model_name": "CC8S",
+  "model_make_id": "koenigsegg"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaea"
+  },
+  "model_name": "CD",
+  "model_make_id": "bitter"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaeb"
+  },
+  "model_name": "CK",
+  "model_make_id": "geely"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaec"
+  },
+  "model_name": "Bee",
+  "model_make_id": "daihatsu"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaed"
+  },
+  "model_name": "Cabriolet",
+  "model_make_id": "venturi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaee"
+  },
+  "model_name": "Cambridge",
+  "model_make_id": "plymouth"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaef"
+  },
+  "model_name": "Century",
+  "model_make_id": "buick"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf0"
+  },
+  "model_name": "Champion",
+  "model_make_id": "studebaker"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf1"
+  },
+  "model_name": "Chairman H",
+  "model_make_id": "ssangyong"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf2"
+  },
+  "model_name": "BS4",
+  "model_make_id": "brilliance"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf3"
+  },
+  "model_name": "BS6",
+  "model_make_id": "brilliance"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf4"
+  },
+  "model_name": "Commodore",
+  "model_make_id": "hudson"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf5"
+  },
+  "model_name": "DE 36",
+  "model_make_id": "daimler"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf6"
+  },
+  "model_name": "Estate",
+  "model_make_id": "tata"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf7"
+  },
+  "model_name": "F Super",
+  "model_make_id": "morgan"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf8"
+  },
+  "model_name": "FG-T",
+  "model_make_id": "ascari"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaf9"
+  },
+  "model_name": "FX",
+  "model_make_id": "holden"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececafa"
+  },
+  "model_name": "Ferrari 3Z",
+  "model_make_id": "zagato"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececafb"
+  },
+  "model_name": "Firebird",
+  "model_make_id": "gmc"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececafc"
+  },
+  "model_name": "ForFour",
+  "model_make_id": "smart"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececafd"
+  },
+  "model_name": "ForTwo",
+  "model_make_id": "smart"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececafe"
+  },
+  "model_name": "G4",
+  "model_make_id": "ginetta"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececaff"
+  },
+  "model_name": "GT",
+  "model_make_id": "marcos"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb00"
+  },
+  "model_name": "Grantura",
+  "model_make_id": "tvr"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb01"
+  },
+  "model_name": "H1",
+  "model_make_id": "hummer"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb02"
+  },
+  "model_name": "DE 27",
+  "model_make_id": "daimler"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb03"
+  },
+  "model_name": "Hawk",
+  "model_make_id": "humber"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb04"
+  },
+  "model_name": "High Speed 375",
+  "model_make_id": "monteverdi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb05"
+  },
+  "model_name": "I",
+  "model_make_id": "land-rover"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb06"
+  },
+  "model_name": "Coupe",
+  "model_make_id": "venturi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb07"
+  },
+  "model_name": "D Jet",
+  "model_make_id": "matra-simca"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb08"
+  },
+  "model_name": "Integra",
+  "model_make_id": "acura"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb09"
+  },
+  "model_name": "J1",
+  "model_make_id": "allard"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0a"
+  },
+  "model_name": "Jalta",
+  "model_make_id": "zaz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0b"
+  },
+  "model_name": "Jeep",
+  "model_make_id": "willys-overland"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0c"
+  },
+  "model_name": "Juva",
+  "model_make_id": "renault"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0d"
+  },
+  "model_name": "K 111",
+  "model_make_id": "subaru"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0e"
+  },
+  "model_name": "K1",
+  "model_make_id": "allard"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb0f"
+  },
+  "model_name": "Karma",
+  "model_make_id": "fisker"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb10"
+  },
+  "model_name": "Kraftfahrzeug",
+  "model_make_id": "opel"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb11"
+  },
+  "model_name": "LS",
+  "model_make_id": "lexus"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb12"
+  },
+  "model_name": "La Cita",
+  "model_make_id": "moretti"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb13"
+  },
+  "model_name": "Light",
+  "model_make_id": "suzuki"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb14"
+  },
+  "model_name": "Legend",
+  "model_make_id": "acura"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb15"
+  },
+  "model_name": "Luxgen7",
+  "model_make_id": "luxgen"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb16"
+  },
+  "model_name": "M1",
+  "model_make_id": "gaz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb17"
+  },
+  "model_name": "M10",
+  "model_make_id": "noble"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb18"
+  },
+  "model_name": "M1C",
+  "model_make_id": "mclaren"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb19"
+  },
+  "model_name": "MB",
+  "model_make_id": "jeep"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1a"
+  },
+  "model_name": "MK I",
+  "model_make_id": "mini"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1b"
+  },
+  "model_name": "MK V",
+  "model_make_id": "bentley"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1c"
+  },
+  "model_name": "Maepsy-Na",
+  "model_make_id": "daewoo"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1d"
+  },
+  "model_name": "Minx",
+  "model_make_id": "isuzu"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1e"
+  },
+  "model_name": "Musso",
+  "model_make_id": "ssangyong"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb1f"
+  },
+  "model_name": "Oct-73",
+  "model_make_id": "gaz"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb20"
+  },
+  "model_name": "P 70",
+  "model_make_id": "trabant"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb21"
+  },
+  "model_name": "P2",
+  "model_make_id": "rover"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb22"
+  },
+  "model_name": "PV",
+  "model_make_id": "volvo"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb23"
+  },
+  "model_name": "Pony",
+  "model_make_id": "hyundai"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb24"
+  },
+  "model_name": "Polular 995",
+  "model_make_id": "skoda"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb25"
+  },
+  "model_name": "Popular",
+  "model_make_id": "skoda"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb26"
+  },
+  "model_name": "Prinz I",
+  "model_make_id": "nsu"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb27"
+  },
+  "model_name": "Prinz",
+  "model_make_id": "nsu"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb28"
+  },
+  "model_name": "Pullman",
+  "model_make_id": "humber"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb29"
+  },
+  "model_name": "Q45",
+  "model_make_id": "infiniti"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2a"
+  },
+  "model_name": "R 360",
+  "model_make_id": "mazda"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2b"
+  },
+  "model_name": "RM A",
+  "model_make_id": "riley"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2c"
+  },
+  "model_name": "Riva",
+  "model_make_id": "lada"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2d"
+  },
+  "model_name": "Roadster",
+  "model_make_id": "mercury"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2e"
+  },
+  "model_name": "S",
+  "model_make_id": "lada"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb2f"
+  },
+  "model_name": "S500",
+  "model_make_id": "honda"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb30"
+  },
+  "model_name": "S7",
+  "model_make_id": "donkervoort"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb31"
+  },
+  "model_name": "SM",
+  "model_make_id": "samsung"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb32"
+  },
+  "model_name": "SM 1500",
+  "model_make_id": "singer"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb33"
+  },
+  "model_name": "SM5",
+  "model_make_id": "samsung"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb34"
+  },
+  "model_name": "SS",
+  "model_make_id": "jaguar"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb35"
+  },
+  "model_name": "ST1",
+  "model_make_id": "zenvo"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb36"
+  },
+  "model_name": "SW",
+  "model_make_id": "maybach"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb37"
+  },
+  "model_name": "Sabre 4",
+  "model_make_id": "reliant"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb38"
+  },
+  "model_name": "Sabre Six",
+  "model_make_id": "reliant"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb39"
+  },
+  "model_name": "Saloon",
+  "model_make_id": "proton"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3a"
+  },
+  "model_name": "Schwimmwagen",
+  "model_make_id": "volkswagen"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3b"
+  },
+  "model_name": "Sedan",
+  "model_make_id": "nissan"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3c"
+  },
+  "model_name": "Silver Wraith",
+  "model_make_id": "rolls-royce"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3d"
+  },
+  "model_name": "Smart",
+  "model_make_id": "mcc"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3e"
+  },
+  "model_name": "Sports Coupe",
+  "model_make_id": "saturn"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb3f"
+  },
+  "model_name": "Star Chief",
+  "model_make_id": "pontiac"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb40"
+  },
+  "model_name": "Straight 8",
+  "model_make_id": "jensen"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb41"
+  },
+  "model_name": "Suburban",
+  "model_make_id": "chevrolet"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb42"
+  },
+  "model_name": "Summit",
+  "model_make_id": "eagle"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb43"
+  },
+  "model_name": "Super Snipe",
+  "model_make_id": "humber"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb44"
+  },
+  "model_name": "Superb",
+  "model_make_id": "skoda"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb45"
+  },
+  "model_name": "Supernova",
+  "model_make_id": "dacia"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb46"
+  },
+  "model_name": "T 26",
+  "model_make_id": "talbot"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb47"
+  },
+  "model_name": "T87",
+  "model_make_id": "tatra"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb48"
+  },
+  "model_name": "TA 14",
+  "model_make_id": "alvis"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb49"
+  },
+  "model_name": "TD",
+  "model_make_id": "mg"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4a"
+  },
+  "model_name": "Tapiro",
+  "model_make_id": "italdesign"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4b"
+  },
+  "model_name": "Taunus",
+  "model_make_id": "ford"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4c"
+  },
+  "model_name": "Ten Four",
+  "model_make_id": "morris"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4d"
+  },
+  "model_name": "Testa de Oro",
+  "model_make_id": "lotec"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4e"
+  },
+  "model_name": "Thunderbolt",
+  "model_make_id": "chrysler"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb4f"
+  },
+  "model_name": "Tickford",
+  "model_make_id": "austin-healey"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb50"
+  },
+  "model_name": "Twosome",
+  "model_make_id": "berkeley"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb51"
+  },
+  "model_name": "Type 202",
+  "model_make_id": "peugeot"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb52"
+  },
+  "model_name": "Town",
+  "model_make_id": "checker"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb53"
+  },
+  "model_name": "Ultimate Aero",
+  "model_make_id": "ssc"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb54"
+  },
+  "model_name": "Variant",
+  "model_make_id": "audi"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb55"
+  },
+  "model_name": "Ugly Duckling",
+  "model_make_id": "marcos"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb56"
+  },
+  "model_name": "Type 68",
+  "model_make_id": "bugatti"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb57"
+  },
+  "model_name": "Veritas Rennsportwagen",
+  "model_make_id": "bmw"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb58"
+  },
+  "model_name": "WC 51",
+  "model_make_id": "dodge"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb59"
+  },
+  "model_name": "Wiegert",
+  "model_make_id": "vector"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb5a"
+  },
+  "model_name": "Wyvern",
+  "model_make_id": "vauxhall"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb5b"
+  },
+  "model_name": "ZEI",
+  "model_make_id": "westfield"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb5c"
+  },
+  "model_name": "Zephyr",
+  "model_make_id": "lincoln"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb5d"
+  },
+  "model_name": "Zonda",
+  "model_make_id": "pagani"
+},{
+  "_id": {
+    "$oid": "5f38c04e57e20a10dececb5e"
+  },
+  "model_name": "xB",
+  "model_make_id": "scion"
+}]
