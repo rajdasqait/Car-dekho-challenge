@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Car-dekho-challenge
+## Requirement
+Back End: NodeJS
+Database: MongoDB
+Front End: React or Angular
+ 
+## Server-side
+- We've provided some .csv files, please use them to store some details into MongoDB.
+- Make a route `/user/login` for user login
+- Make a route `/user/register` for user registration 
+- Make a route `/car/details` for fetching the details for the car based of selected make, model, and trim.
+- It should have some query parameters too:  For eg if I'd like to fetch a list of make: `/car/details?cmd='getMakes'` 
+For eg if I'd like to fetch model for make='audi': `/car/details?cmd='getModels'&make="audi"` 
+For egif  I'd like to fetch trims for make='audi' and model='A3': `/car/details?cmd='getTrims'&make="audi"&model="A3"` 
+Show all these details of trims in the page which is defined in `trim.csv` file.  
+## Client-side 
+We need a website where the user can search for car details of his desired filter selection.
+- We need a login page asking for username and password. 
+- Redirect the users to `/cars` page after login:
+  - This page should have 3 dropdowns to show all the details of the filtered cars, and a button `Show Data` 
+    - make 
+    - model
+    - trim 
+  - By default the page will show only the dropdowns (mentioned above), and only make dropdown will be populated. 
+  - After selecting 1 item from the make dropdown, the model dropdown should get populated (list will come from an api call). 
+  - Then after selecting 1 item from the model dropdown, then the trim dropdown should get populated (list will come from an api call) 
+And so on…..
+  - At last, clicking on the “Show Data” button, should show the details (defined in the provided `trim.csv` file)
+  - We also want a toggle to show the list into grid view or list view. 
 
-## Available Scripts
+##### VERY IMPORTANT (DO NOT MISS THIS)
+  - There should be a button to navigate it to `/admin` route. From admin page only admin user could add new car details; it should be done in a way when we add a new car detail first validate the user authentication whether its an  admin or non-admin user. **(Use JWT token for auth)** 
 
-In the project directory, you can run:
+  - When admin user is adding a new car detail, then it should be **real-time (Preferably GraphQL, socket.io).** To do that, add a new detail in a browser and check in another browser without reloading the page whether you can see the newly added car details or not. 
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Deliverables:
+1. Checkout a branch of your name from the master branch. 
+2. Complete this challenge in that branch with proper commits. 
+3. Code should be very clean and understandable. 
+4. Project should be run error free. 
+5. Make a file where you tell us about the challenges you came across and how you solved it. 
+6. How much time taken to complete this challenge?
